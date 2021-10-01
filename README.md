@@ -1,2 +1,2 @@
 # Advance-Algorithms
-  More complex algorithms.
+  More complex algorithms cases.
