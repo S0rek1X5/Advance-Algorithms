@@ -1,0 +1,2 @@
+# Advance-Algorithms
+  This case is of a teacher who seeks to create a basketball team in x school, for this he needs to know the average height of his students, boys, girls and both; the tallest boy and girl and who is the tallest student.
