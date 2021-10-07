@@ -38,7 +38,7 @@ int main ()
 		printf("--------------");
 		printf("\nstatistics\n");
 		printf("%i Won A - %i Won B\n%i Won C - %i Won D\n%i Won F",A,B,C,D,F);
-		printf("\n\n%1.1f Won A %1.1f Won B %1.1f Won C %1.1f Won D %1.1f Won F\n",porA,porB,porC,porD,porF);
+		printf("\n\n%1.1f Percent Won A\n%1.1f Percent Won B\n%1.1f Percent Won C\n%1.1f Percent Won D\n%1.1f Percent Won F\n",porA,porB,porC,porD,porF);
 		printf("\nPress 1 To CONTINUE | Press 2 to EXIT\n: ");scanf("%d",&opc);
 		printf("\n--------------------------------------\n");
 	}while(opc==1);
